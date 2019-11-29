@@ -6,8 +6,10 @@
   "files": [
     "vue-json-viewer.js",
     "ssr.js",
-    "style.css"
+    "style.css",
+    "typings"
   ],
+  "typings": "typings/index.d.ts",
   "directories": {
     "lib": "./lib",
     "example": "./example"
